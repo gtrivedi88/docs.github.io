@@ -22,7 +22,7 @@ runtime:
 site:
   title: Stonesoup Documentation
   url: https://docs.github.io/
-  start_page: doc::index.adoc
+  start_page: Documentation::index.adoc
   robots: allow
 content:
   sources:
