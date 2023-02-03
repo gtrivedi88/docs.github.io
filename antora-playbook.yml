@@ -53,10 +53,6 @@ antora:
   - '@hacbs-contract/ec-policies-antora-extension'
   - '@hacbs-contract/reference-antora-extension'
 
-runtime:
-  log:
-    failure_level: warn
-
 asciidoc:
   attributes:
 
