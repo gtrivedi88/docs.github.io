@@ -1,14 +1,22 @@
-= About Enterprise Contract
+= {ProductName}
 
-Enterprise Contract is a set of tools and policies that maintains the security
-of the software supply chain. Tools such as
-https://tekton.dev/docs/chains/[Tekton Chains] can produce a signed
-https://in-toto.io/in-toto/[in-toto] attestation of the software build process,
-a set of xref:ec-policies:ROOT:index.adoc[policies] attests that the process
-followed a perscribed set of best practices and organization's requirements that
-can be evaluated using the xref:ec-cli:ROOT:index.adoc[tools] to maintain the
-supply chain security.
+{ProductName} is a fully managed service that provides a simple workflow for developing, testing, and releasing containerized applications that meets enterprise security standards.
 
-There's an additional overview of Enterprise Contract and its components in the
-https://redhat-appstudio.github.io/book/book/enterprise-contract.html[Book of
-AppStudio].
+xref:getting-started/index.adoc[Getting started]:: Get started with {ProductName}
+[]
+xref:concepts/index.adoc[*Concepts*]:: Learn about technical and conceptual information
+[]
+xref:how-to-guides/index.adoc[*How-to guides*]:: Complete tasks in the {ProductName} console
+[]
+xref:cli/index.adoc[*Cli*]:: Complete tasks by using CLI
+[]
+xref:contribute/index.adoc[*Contribute to documentation*]:: Follow guidelines to contribute
+
+[]
+link:https://issues.redhat.com/projects/HACDOCS[*Raise an issue*]:: Raise an issue in the {ProductName} documentation
+[]
+link:https://docs.engineering.redhat.com/pages/viewpage.action?pageId=256849149[*{ProductName} confluence page*]:: Review the confluence page for details on {ProductName} project
+[]
+link:https://docs.google.com/document/d/1wzJu-wOYez5p875kl0QkgQ6b2i9x_T9983YdxTxBd-I/edit?usp=sharing[*{ProductName} Project Status Dashboard*]:: Review the Google doc for {ProductName} project status
+[]
+xref:support/index.adoc[*Support*]:: Email us or contact us in the Google chat room
